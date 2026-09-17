@@ -1,4 +1,4 @@
-## Hi, I'm Igor 👋
+## Hi, I'm Ihor 👋
 
 Full-stack developer. I build web products end to end — typed React / Next.js front
 ends on top of Node and NestJS APIs, with real databases, payments, queues and deploys.
