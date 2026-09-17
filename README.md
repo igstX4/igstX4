@@ -1,11 +1,7 @@
-## Hi, I'm Sergii 👋
+## Hi, I'm Igor 👋
 
 Full-stack developer. I build web products end to end — typed React / Next.js front
 ends on top of Node and NestJS APIs, with real databases, payments, queues and deploys.
-
-I care about the parts that are easy to skip: migrations that actually run, seeds that
-match the schema, smoke tests that exercise the real HTTP surface, and READMEs that tell
-you what the project is before you clone it.
 
 ### Projects
 
